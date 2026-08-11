@@ -1,6 +1,53 @@
 {
     "symbol": "XAUUSD",
     "source": "FTMO",
-    "test": true,
-    "message": "GitHub connection test"
+    "updated_at": "2026-08-11T11:46:12.828894-03:00",
+    "timezone": "America/Sao_Paulo",
+    "summary": {
+        "total_news": 3,
+        "high_impact": 3,
+        "bullish_5": 0,
+        "bearish_5": 0
+    },
+    "news": [
+        {
+            "title": "Core CPI m/m",
+            "date": "2026-08-12T09:30:00-03:00",
+            "impact": "HIGH",
+            "instrument": "USD + US Indices + XAUUSD + DXY",
+            "eventType": "normal",
+            "restriction": true,
+            "actual": null,
+            "forecast": "0.2 %",
+            "previous": "0.0%",
+            "direction": "UNKNOWN",
+            "score": 5
+        },
+        {
+            "title": "CPI m/m",
+            "date": "2026-08-12T09:30:00-03:00",
+            "impact": "HIGH",
+            "instrument": "USD + US Indices + XAUUSD + DXY",
+            "eventType": "normal",
+            "restriction": true,
+            "actual": null,
+            "forecast": "0.1 %",
+            "previous": "-0.4 %",
+            "direction": "UNKNOWN",
+            "score": 5
+        },
+        {
+            "title": "CPI y/y",
+            "date": "2026-08-12T09:30:00-03:00",
+            "impact": "HIGH",
+            "instrument": "USD + US Indices + XAUUSD + DXY",
+            "eventType": "normal",
+            "restriction": true,
+            "actual": null,
+            "forecast": "3.4 %",
+            "previous": "3.5 %",
+            "direction": "UNKNOWN",
+            "score": 5
+        }
+    ]
 }
