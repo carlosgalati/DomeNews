@@ -1,81 +1,17 @@
 {
     "symbol": "XAUUSD",
     "source": "FTMO",
-    "updated_at": "2026-08-11T19:23:39.968558-03:00",
+    "updated_at": "2026-08-13T10:26:24.229522-03:00",
     "timezone_local": "America/Sao_Paulo",
     "metatrader_utc_offset": 3,
     "summary": {
-        "total_news": 3,
-        "high_impact": 3,
-        "expected_bullish_5": 1,
-        "expected_bearish_5": 2,
-        "overall_direction": "BEAR",
-        "overall_score": 5
+        "total_news": 0,
+        "high_impact": 0,
+        "expected_bullish_5": 0,
+        "expected_bearish_5": 0,
+        "overall_direction": "NEUTRAL",
+        "overall_score": 0
     },
-    "next_news": {
-        "title": "Core CPI m/m",
-        "date_utc": "2026-08-12T12:30:00Z",
-        "date_brasilia": "2026-08-12T09:30:00-03:00",
-        "date_metatrader": "2026-08-12T15:30:00+03:00",
-        "impact": "HIGH",
-        "instrument": "USD + US Indices + XAUUSD + DXY",
-        "eventType": "normal",
-        "restriction": true,
-        "actual": null,
-        "forecast": "0.2 %",
-        "previous": "0.0%",
-        "expected_direction": "BEAR",
-        "expected_score": 5,
-        "actual_direction": "UNKNOWN"
-    },
-    "news": [
-        {
-            "title": "Core CPI m/m",
-            "date_utc": "2026-08-12T12:30:00Z",
-            "date_brasilia": "2026-08-12T09:30:00-03:00",
-            "date_metatrader": "2026-08-12T15:30:00+03:00",
-            "impact": "HIGH",
-            "instrument": "USD + US Indices + XAUUSD + DXY",
-            "eventType": "normal",
-            "restriction": true,
-            "actual": null,
-            "forecast": "0.2 %",
-            "previous": "0.0%",
-            "expected_direction": "BEAR",
-            "expected_score": 5,
-            "actual_direction": "UNKNOWN"
-        },
-        {
-            "title": "CPI m/m",
-            "date_utc": "2026-08-12T12:30:00Z",
-            "date_brasilia": "2026-08-12T09:30:00-03:00",
-            "date_metatrader": "2026-08-12T15:30:00+03:00",
-            "impact": "HIGH",
-            "instrument": "USD + US Indices + XAUUSD + DXY",
-            "eventType": "normal",
-            "restriction": true,
-            "actual": null,
-            "forecast": "0.1 %",
-            "previous": "-0.4 %",
-            "expected_direction": "BEAR",
-            "expected_score": 5,
-            "actual_direction": "UNKNOWN"
-        },
-        {
-            "title": "CPI y/y",
-            "date_utc": "2026-08-12T12:30:00Z",
-            "date_brasilia": "2026-08-12T09:30:00-03:00",
-            "date_metatrader": "2026-08-12T15:30:00+03:00",
-            "impact": "HIGH",
-            "instrument": "USD + US Indices + XAUUSD + DXY",
-            "eventType": "normal",
-            "restriction": true,
-            "actual": null,
-            "forecast": "3.4 %",
-            "previous": "3.5 %",
-            "expected_direction": "BULL",
-            "expected_score": 5,
-            "actual_direction": "UNKNOWN"
-        }
-    ]
+    "next_news": null,
+    "news": []
 }
