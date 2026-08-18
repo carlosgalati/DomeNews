@@ -1,17 +1,49 @@
 {
     "symbol": "XAUUSD",
     "source": "FTMO",
-    "updated_at": "2026-08-13T10:26:24.229522-03:00",
+    "updated_at": "2026-08-18T10:34:23.021046-03:00",
     "timezone_local": "America/Sao_Paulo",
     "metatrader_utc_offset": 3,
     "summary": {
-        "total_news": 0,
-        "high_impact": 0,
+        "total_news": 1,
+        "high_impact": 1,
         "expected_bullish_5": 0,
         "expected_bearish_5": 0,
         "overall_direction": "NEUTRAL",
-        "overall_score": 0
+        "overall_score": 5
     },
-    "next_news": null,
-    "news": []
+    "next_news": {
+        "title": "FOMC Meeting Minutes",
+        "date_utc": "2026-08-19T18:00:00Z",
+        "date_brasilia": "2026-08-19T15:00:00-03:00",
+        "date_metatrader": "2026-08-19T21:00:00+03:00",
+        "impact": "HIGH",
+        "instrument": "USD + US Indices + XAUUSD + DXY",
+        "eventType": "normal",
+        "restriction": true,
+        "actual": null,
+        "forecast": null,
+        "previous": null,
+        "expected_direction": "UNKNOWN",
+        "expected_score": 5,
+        "actual_direction": "UNKNOWN"
+    },
+    "news": [
+        {
+            "title": "FOMC Meeting Minutes",
+            "date_utc": "2026-08-19T18:00:00Z",
+            "date_brasilia": "2026-08-19T15:00:00-03:00",
+            "date_metatrader": "2026-08-19T21:00:00+03:00",
+            "impact": "HIGH",
+            "instrument": "USD + US Indices + XAUUSD + DXY",
+            "eventType": "normal",
+            "restriction": true,
+            "actual": null,
+            "forecast": null,
+            "previous": null,
+            "expected_direction": "UNKNOWN",
+            "expected_score": 5,
+            "actual_direction": "UNKNOWN"
+        }
+    ]
 }
