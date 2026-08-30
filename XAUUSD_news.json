@@ -1,7 +1,7 @@
 {
     "symbol": "XAUUSD",
     "source": "FTMO",
-    "updated_at": "2026-08-30T19:56:25.320121-03:00",
+    "updated_at": "2026-08-30T20:54:14.013826-03:00",
     "timezone_local": "America/Sao_Paulo",
     "metatrader_utc_offset": 3,
     "summary": {
@@ -13,19 +13,19 @@
         "overall_score": 5
     },
     "next_news": {
-        "title": "Retail Sales y/y",
-        "date_utc": "2026-08-30T23:50:00Z",
-        "date_brasilia": "2026-08-30T20:50:00-03:00",
-        "date_metatrader": "2026-08-31T02:50:00+03:00",
-        "impact": "LOW",
-        "instrument": "JPY",
+        "title": "German Prelim CPI m/m",
+        "date_utc": "2026-08-31T06:29:00Z",
+        "date_brasilia": "2026-08-31T03:29:00-03:00",
+        "date_metatrader": "2026-08-31T09:29:00+03:00",
+        "impact": "MEDIUM",
+        "instrument": "EUR",
         "eventType": "normal",
         "restriction": false,
         "actual": null,
-        "forecast": "3.2 %",
-        "previous": "0.5 %",
-        "expected_direction": "UNKNOWN",
-        "expected_score": 1,
+        "forecast": "0.3 %",
+        "previous": "0.8 %",
+        "expected_direction": "BULL",
+        "expected_score": 3,
         "actual_direction": "UNKNOWN"
     },
     "news": [
@@ -38,7 +38,7 @@
             "instrument": "JPY",
             "eventType": "normal",
             "restriction": false,
-            "actual": null,
+            "actual": "4 %",
             "forecast": "3.2 %",
             "previous": "0.5 %",
             "expected_direction": "UNKNOWN",
