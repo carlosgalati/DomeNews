@@ -1,7 +1,7 @@
 {
     "symbol": "XAUUSD",
     "source": "FTMO",
-    "updated_at": "2026-10-04T20:35:56.479860-03:00",
+    "updated_at": "2026-10-05T17:42:27.573360-03:00",
     "timezone_local": "America/Sao_Paulo",
     "metatrader_utc_offset": 3,
     "summary": {
@@ -13,18 +13,18 @@
         "overall_score": 5
     },
     "next_news": {
-        "title": "PPI m/m",
-        "date_utc": "2026-10-05T09:00:00Z",
-        "date_brasilia": "2026-10-05T06:00:00-03:00",
-        "date_metatrader": "2026-10-05T12:00:00+03:00",
+        "title": "Unemployment Rate",
+        "date_utc": "2026-10-06T07:00:00Z",
+        "date_brasilia": "2026-10-06T04:00:00-03:00",
+        "date_metatrader": "2026-10-06T10:00:00+03:00",
         "impact": "LOW",
-        "instrument": "EUR",
+        "instrument": "CHF",
         "eventType": "normal",
         "restriction": false,
         "actual": null,
-        "forecast": "1.9 %",
-        "previous": "1.6 %",
-        "expected_direction": "BEAR",
+        "forecast": "3.1 %",
+        "previous": "3.1 %",
+        "expected_direction": "NEUTRAL",
         "expected_score": 1,
         "actual_direction": "UNKNOWN"
     },
@@ -38,12 +38,12 @@
             "instrument": "EUR",
             "eventType": "normal",
             "restriction": false,
-            "actual": null,
+            "actual": "1.9 %",
             "forecast": "1.9 %",
             "previous": "1.6 %",
             "expected_direction": "BEAR",
             "expected_score": 1,
-            "actual_direction": "UNKNOWN"
+            "actual_direction": "NEUTRAL"
         },
         {
             "title": "Final Services PMI",
@@ -54,7 +54,7 @@
             "instrument": "USD",
             "eventType": "normal",
             "restriction": false,
-            "actual": null,
+            "actual": "58.8",
             "forecast": "58.7",
             "previous": "58.7",
             "expected_direction": "UNKNOWN",
@@ -70,7 +70,7 @@
             "instrument": "USD",
             "eventType": "normal",
             "restriction": false,
-            "actual": null,
+            "actual": "54.9",
             "forecast": "55.1",
             "previous": "55.4",
             "expected_direction": "UNKNOWN",
